@@ -1,0 +1,2 @@
+https://api.whatsapp.com/send?
+phone=918018543476&text=vacancy20%open20%are20%you20%intrested 
